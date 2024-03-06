@@ -1,9 +1,9 @@
 window._env_ = {
   ESIGNET_UI_BASE_URL: "http://localhost:3000",
-  MOCK_RELYING_PARTY_SERVER_URL: "http://localhost:5000/mock-relying-party-server",
-  REDIRECT_URI_USER_PROFILE: "http://localhost:5000/userprofile",
-  REDIRECT_URI_REGISTRATION: "http://localhost:5000/registration",
-  REDIRECT_URI: "http://localhost:5000/userprofile",
+  MOCK_RELYING_PARTY_SERVER_URL: "http://localhost:5002/mock-relying-party-server",
+  REDIRECT_URI_USER_PROFILE: "http://localhost:5002/userprofile",
+  REDIRECT_URI_REGISTRATION: "http://localhost:5002/registration",
+  REDIRECT_URI: "http://localhost:5002/userprofile",
   CLIENT_ID: "healthservices",
   ACRS: "mosip:idp:acr:generated-code%20mosip:idp:acr:biometrics%20mosip:idp:acr:static-code",
   SCOPE_USER_PROFILE: "openid%20profile%20resident-service",
